@@ -1,6 +1,4 @@
-Sure, here is the complete content for your `README.md` file:
 
-```markdown
 # Spam Detection Project
 
 A machine learning project to detect spam messages using Naive Bayes Classifier.
