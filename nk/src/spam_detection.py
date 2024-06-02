@@ -13,6 +13,7 @@ import pickle
 
 # 1. Collecting a labeled dataset of emails
 # Load the CSV file and rename columns
+# Load dataset
 csv_file_path = "spam.csv"
 df = pd.read_csv(csv_file_path, encoding='latin1')
 df = df[['v1', 'v2']]
